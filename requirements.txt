@@ -8,4 +8,4 @@ django-flat-responsive
 django-oauth-toolkit
 djangorestframework
 djoser
-Pillow
+pillow
